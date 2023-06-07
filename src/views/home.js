@@ -125,11 +125,11 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-frame277131536">
-                <button className="home-button">
+                <a href="#contact" className="home-button">
                   <span className="home-text11">
                     <span>Get In Touch</span>
                   </span>
-                </button>
+                </a>
               </div>
               <img
                 alt="image"
