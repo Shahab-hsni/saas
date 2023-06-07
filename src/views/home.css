@@ -1989,6 +1989,9 @@
   }
 }
 @media (max-width: 479px) {
+  .triple-img-mobile {
+    margin-top: -2em;
+  }
   /* .triple-img-mobile {
     bottom: 7%;
   } */
