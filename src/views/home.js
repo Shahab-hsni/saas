@@ -218,12 +218,11 @@ const Home = (props) => {
           <div className="home-frame2771315621">
             <div className="home-frame2771315601">
               <p className="home-text19">
-                We believe in the power of local economies. Buyamia&apos;s
-                hyper-local approach connects customers with nearby businesses,
-                fostering community engagement and supporting local
-                entrepreneurship. By shopping locally, customers reduce their
-                carbon footprint and contribute to the growth of their
-                communities.
+                We curate a diverse range of eco-friendly and socially
+                responsible products. From ethically sourced fashion to organic
+                skincare and green home essentials, Buyamia provides a
+                marketplace where customers can shop with confidence, knowing
+                that their purchases support sustainable brands and practices.
               </p>
             </div>
             <div className="home-frame2771315591">
