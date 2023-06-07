@@ -138,7 +138,7 @@ const Home = (props) => {
               />
             </div>
           </div>
-          <div className="home-frame277131530">
+          <div className="desktop-triple-images">
             <div className="home-sales-cards">
               <img
                 alt="DSC0882216260"
@@ -160,6 +160,20 @@ const Home = (props) => {
                 className="home-image1669448840724original5"
               />
             </div>
+          </div>
+          <div className="triple-img-mobile">
+            <img
+              alt="DSC0882216260"
+              src="/external/dsc0882216260-sje-200h.png"
+            />
+            <img
+              alt="DSC0882216260"
+              src="/external/image1669711219553original16260-6iho-200h.png"
+            />
+            <img
+              alt="DSC0882216260"
+              src="/external/image1669448840724original56260-zcmx-200h.png"
+            />
           </div>
         </div>
       </div>
