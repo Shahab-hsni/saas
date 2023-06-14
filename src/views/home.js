@@ -116,7 +116,7 @@ const Home = (props) => {
                 </div>
                 <div className="home-frame277131534">
                   <p className="home-text10">
-                    the leading sustainable SaaS platform revolutionizing
+                    The leading sustainable SaaS platform revolutionizing
                     hyper-local e-commerce. Our innovative model combines
                     cutting-edge technology, environmental consciousness, and
                     community empowerment to create a thriving marketplace that
