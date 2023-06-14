@@ -210,7 +210,7 @@ const Home = (props) => {
           </div>
           <img
             alt="pexelsscottwebb13761116535"
-            src="/external/pexelsscottwebb13761116535-eum-1400w.png"
+            src="/external/pexels-suzy-hazelwood-2309235.jpg"
             className="home-pexelsscottwebb1376111"
           />
         </div>
